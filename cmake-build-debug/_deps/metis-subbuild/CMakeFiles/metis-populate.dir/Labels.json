@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/albakrih/CLionProjects/Demo/cmake-build-debug/_deps/metis-subbuild/CMakeFiles/metis-populate"
+		},
+		{
+			"file" : "/home/albakrih/CLionProjects/Demo/cmake-build-debug/_deps/metis-subbuild/CMakeFiles/metis-populate.rule"
+		},
+		{
+			"file" : "/home/albakrih/CLionProjects/Demo/cmake-build-debug/_deps/metis-subbuild/CMakeFiles/metis-populate-complete.rule"
+		},
+		{
+			"file" : "/home/albakrih/CLionProjects/Demo/cmake-build-debug/_deps/metis-subbuild/metis-populate-prefix/src/metis-populate-stamp/metis-populate-build.rule"
+		},
+		{
+			"file" : "/home/albakrih/CLionProjects/Demo/cmake-build-debug/_deps/metis-subbuild/metis-populate-prefix/src/metis-populate-stamp/metis-populate-configure.rule"
+		},
+		{
+			"file" : "/home/albakrih/CLionProjects/Demo/cmake-build-debug/_deps/metis-subbuild/metis-populate-prefix/src/metis-populate-stamp/metis-populate-download.rule"
+		},
+		{
+			"file" : "/home/albakrih/CLionProjects/Demo/cmake-build-debug/_deps/metis-subbuild/metis-populate-prefix/src/metis-populate-stamp/metis-populate-install.rule"
+		},
+		{
+			"file" : "/home/albakrih/CLionProjects/Demo/cmake-build-debug/_deps/metis-subbuild/metis-populate-prefix/src/metis-populate-stamp/metis-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/albakrih/CLionProjects/Demo/cmake-build-debug/_deps/metis-subbuild/metis-populate-prefix/src/metis-populate-stamp/metis-populate-patch.rule"
+		},
+		{
+			"file" : "/home/albakrih/CLionProjects/Demo/cmake-build-debug/_deps/metis-subbuild/metis-populate-prefix/src/metis-populate-stamp/metis-populate-test.rule"
+		},
+		{
+			"file" : "/home/albakrih/CLionProjects/Demo/cmake-build-debug/_deps/metis-subbuild/metis-populate-prefix/src/metis-populate-stamp/metis-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"metis-populate"
+		],
+		"name" : "metis-populate"
+	}
+}

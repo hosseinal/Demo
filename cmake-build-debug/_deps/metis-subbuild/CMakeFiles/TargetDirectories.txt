@@ -1,0 +1,3 @@
+/home/albakrih/CLionProjects/Demo/cmake-build-debug/_deps/metis-subbuild/CMakeFiles/metis-populate.dir
+/home/albakrih/CLionProjects/Demo/cmake-build-debug/_deps/metis-subbuild/CMakeFiles/edit_cache.dir
+/home/albakrih/CLionProjects/Demo/cmake-build-debug/_deps/metis-subbuild/CMakeFiles/rebuild_cache.dir

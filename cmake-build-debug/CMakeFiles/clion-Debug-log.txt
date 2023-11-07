@@ -1,0 +1,10 @@
+/home/albakrih/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/albakrih/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja -G Ninja -S /home/albakrih/CLionProjects/Demo -B /home/albakrih/CLionProjects/Demo/cmake-build-debug
+-- Found OpenMP_C: -fopenmp (found version "4.5") 
+-- Found OpenMP_CXX: -fopenmp (found version "4.5") 
+-- Found OpenMP_C: -fopenmp (found version "4.5") 
+-- Found OpenMP_CXX: -fopenmp (found version "4.5") 
+-- OpenMP is enabled
+-- Could NOT find benchmark (missing: benchmark_INCLUDE_DIR benchmark_LIBRARY) 
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/albakrih/CLionProjects/Demo/cmake-build-debug
