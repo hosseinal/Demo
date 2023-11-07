@@ -5,6 +5,11 @@
 -- Found OpenMP_CXX: -fopenmp (found version "4.5") 
 -- OpenMP is enabled
 -- Could NOT find benchmark (missing: benchmark_INCLUDE_DIR benchmark_LIBRARY) 
--- Configuring done (0.0s)
+-- A cache variable, namely METIS_DIR, has been set to specify the install directory of METIS
+-- Looking for metis -- metis.h not found
+-- Looking for metis -- lib metis not found
+-- Could NOT find METIS (missing: METIS_LIBRARIES METIS_WORKS) 
+-- Third-party (internal): creating target 'metis::metis'
+-- Configuring done (0.1s)
 -- Generating done (0.0s)
 -- Build files have been written to: /home/albakrih/CLionProjects/Demo/cmake-build-debug
