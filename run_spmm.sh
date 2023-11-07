@@ -29,7 +29,7 @@ echo "---- running an example ----"
 
 cd build
 
-rm ../results.csv
+rm ../results_spmm.csv
 
 # shellcheck disable=SC2034
 #size of the matrix
@@ -41,21 +41,14 @@ thread_list="1"
 HEADER="ON"
 BLOCKSIZE=16
 for size in $sizes; do
-  if [ "$size" -lt 64 ]; then
-    BLOCKSIZE=16
-  else
-    BLOCKSIZE=64
-  fi
-    echo $BLOCKSIZE
-
   # shellcheck disable=SC2034
   for thr in $thread_list;do
   export MKL_NUM_THREADS=$thr
   if [ "$HEADER" == "ON" ]; then
-    ./DemoGeMM "$thr" "$size" 1 "$BLOCKSIZE"
+    ./DemoSpMM "$thr" "$size" 1
     HEADER="OFF"
   else
-    ./DemoGeMM "$thr" "$size" 0 "$BLOCKSIZE"
+    ./DemoSpMM "$thr" "$size" 0
   fi
   done
 done
